@@ -1,1 +1,1 @@
-# SRMS
+# Student_Result_Management_Portal
